@@ -659,7 +659,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Authors
 
-- **Harjot Singh** - [GitHub](https://github.com/Harjotraith04)
+- **Harjot Singh** - [GitHub](https://github.com/Shrushti284/)
 
 ---
 
@@ -675,14 +675,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-For support, questions, or feedback:
 
-- 📧 Email: support@almanacai.com
-- 🐛 Issues: [GitHub Issues](https://github.com/Harjotraith04/Time_Table_Generation_AI_Tool/issues)
-- 📖 Docs: Check the documentation files in the repository
-- 💬 Discussions: [GitHub Discussions](https://github.com/Harjotraith04/Time_Table_Generation_AI_Tool/discussions)
-
----
 
 <div align="center">
 
